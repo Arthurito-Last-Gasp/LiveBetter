@@ -1,6 +1,6 @@
 
 
-### **LiveBetter: Sua Busca Pessoal por Bem-Estar**
+### **LiveBetter: Sua Busca Pessoal por Bem-Estar - imersão Dev com Google Gemini**
 
 **O que é?**
 
